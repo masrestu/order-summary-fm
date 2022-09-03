@@ -152,6 +152,14 @@ main {
 		padding: 2rem 3rem;
 	}
 
+	.card-body > p {
+		line-height: 1.5;
+	}
+
+	.card-body > .selected-plan {
+		padding: 1.5rem;
+	}
+
 	.plan-text * {
 		font-size: medium;
 	}
