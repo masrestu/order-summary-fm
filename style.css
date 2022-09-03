@@ -153,10 +153,10 @@ main {
 	}
 
 	.plan-text * {
-		font-size: 1.2rem;
+		font-size: medium;
 	}
 
 	.plan-info {
-		padding-bottom: .2rem;
+		padding-bottom: .4rem;
 	}
 }
