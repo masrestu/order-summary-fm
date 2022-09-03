@@ -179,6 +179,10 @@ main {
 		font-weight: 900;
 	}
 
+	.btn-proceed {
+		margin-top: .8rem;
+	}
+
 	.btn-cancel {
 		margin-top: 1rem;
 	}
