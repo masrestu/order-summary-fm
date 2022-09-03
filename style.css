@@ -152,6 +152,12 @@ main {
 		padding: 2rem 3rem;
 	}
 
+	.card-body > h1 {
+		font-size: 2rem;
+		font-weight: 900;
+		margin-bottom: 1.2rem;
+	}
+
 	.card-body > p {
 		line-height: 1.5;
 	}
@@ -167,4 +173,10 @@ main {
 	.plan-info {
 		padding-bottom: .4rem;
 	}
+
+	.selected-plan > a {
+		font-size: .875rem;
+		font-weight: 900;
+	}
+
 }
